@@ -1,0 +1,6 @@
+channels: 
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies: 
+  - numby=1.14.5
